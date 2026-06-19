@@ -1,7 +1,5 @@
 # 🍕PIZZA PLACE SALES ANALYSIS
 
-## Checkout and Interact with my Dashboard On:
-
 ## 🎯OBJECTIVE
 
 -To analyze customer traffic trends and identify peak hours in order to optimize staffing and improve operational efficiency.
